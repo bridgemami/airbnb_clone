@@ -1,0 +1,24 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.image {
+    max-width: 400px;
+    align-self: center;
+    padding: 1em 0 0 0;
+}
+
+.textContainer {
+padding-left: 1em;
+}
+
+.header {
+    margin-bottom: 16px;
+}
+
+.text {
+    margin-top: 0;
+}
